@@ -107,7 +107,19 @@ Enhance client experience.
 Modernize the establishment’s image.
 
 ## 📷 Project Screenshots
+Welcome — screenshots & mockups below.
+
+![1](infographi/1.jpg)
+![2](infographi/2.jpg)
+![3](infographi/3.jpg)
+![4](infographi/4.jpg)
+![5](infographi/5.jpg)
+![6](infographi/6.jpg)
+![7](infographi/7.jpg)
+![8](infographi/8.jpg)
+![9](infographi/9.jpg)
+
 
 The complete presentation (slides+img + assest + mockups + infographics) is available on Google Drive:  
-👉 [View Screenshots on Google Drive](https://drive.google.com/drive/folders/1YAZC-CFT3C6hXnw49gcWhsqGumznexd6?usp=drive_link)
+👉 [View Screenshots et demo on Google Drive](https://drive.google.com/drive/folders/1YAZC-CFT3C6hXnw49gcWhsqGumznexd6?usp=drive_link)
 
